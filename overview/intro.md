@@ -1,4 +1,4 @@
-# XYZ Admin API
+# Public GitHub Admin API
 
 _> This page is necessary. Do not delete._ 
 
